@@ -11,7 +11,8 @@ namespace GitTest
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            var aa = 0;
+            var b = aa;
         }
     }
 }
